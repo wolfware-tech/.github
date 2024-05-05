@@ -6,7 +6,7 @@ At Wolfware, we are committed to engineering excellence. We specialize in develo
 Driven by innovation and guided by integrity, we strive to deliver exceptional service and products that empower our clients.
 Explore our products to see the projects we're passionate about and how we're making a difference through technology.
 
-Our Products:
+Our Flagship Products:
 
 - [Golden Reports](https://goldenreports.dev)
 - [Vana](https://workvana.dev)
